@@ -54,8 +54,10 @@ AI-ассистент для анализа резюме, вакансий и г
 
 ### 📊 GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chelslava\&show_icons=true\&theme=default)
-![Streak](https://streak-stats.demolab.com/?user=chelslava\&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chelslava&show_icons=true&hide_border=true&bg_color=00000000" height="140"/>
+  <img src="https://streak-stats.demolab.com/?user=chelslava&theme=dark&hide_border=true" height="140"/>
+</p>
 
 ---
 
