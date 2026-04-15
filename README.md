@@ -32,10 +32,13 @@
 
 ### ⚙️ Технологии
 
-![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square\&logo=dotnet)
-![Python](https://img.shields.io/badge/Python-AI-3776AB?style=flat-square\&logo=python)
-![RPA](https://img.shields.io/badge/RPA-Automation-00C853?style=flat-square)
-![AI](https://img.shields.io/badge/AI-LLM%20%7C%20RAG-FF6F00?style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,rust,vscode,selenium,docker,git,postgres,powershell" />
+</p>
+
+<p align="center">
+  Automation · Playwright · RPA · AI
+</p>
 
 ---
 
