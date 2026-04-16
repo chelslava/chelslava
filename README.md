@@ -47,8 +47,8 @@
 **🧩 [RPAForge](https://github.com/chelslava/rpaforge)**
 Фреймворк автоматизации с упором на масштабируемую архитектуру и переиспользование компонентов.
 
-**🤖 CoachIT**
-AI-ассистент для анализа резюме, вакансий и генерации сопроводительных писем.
+**⚡ [AutoFlow.NET](https://github.com/chelslava/autoflow-net)**
+Современный кроссплатформенный фреймворк автоматизации с элегантным YAML DSL.
 
 **⚙️ REFramework++**
 Расширенный RPA-framework с поддержкой Dispatcher / Performer и устойчивой обработки ошибок.
@@ -123,8 +123,8 @@ from RPA workflows to AI assistants and scalable architectures.
 **🧩 [RPAForge](https://github.com/chelslava/rpaforge)**
 Automation framework focused on scalable architecture and reusable components.
 
-**🤖 CoachIT**
-AI assistant for resume analysis, job matching, and cover letter generation.
+**⚡ [AutoFlow.NET](https://github.com/chelslava/autoflow-net)**
+A modern, cross-platform automation framework with elegant YAML DSL.
 
 **⚙️ REFramework++**
 Advanced RPA framework with Dispatcher / Performer execution model.
