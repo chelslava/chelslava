@@ -55,41 +55,6 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chelslava&show_icons=true&hide_border=true&bg_color=00000000" height="140"/>
-  <img src="https://streak-stats.demolab.com/?user=chelslava&theme=dark&hide_border=true" height="140"/>
-</p>
-
----
-
-### 🐍 Активность
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://chelslava.github.io/chelslava/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://chelslava.github.io/chelslava/github-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://chelslava.github.io/chelslava/github-snake-dark.svg"
-  />
-</picture>
-
----
-
-### 📫 Контакты
-
-Telegram: https://t.me/ChelSlava
-Email: [chelslava@gmail.com](mailto:chelslava@gmail.com)
-
----
-
 <a id="english"></a>
 
 ## 👋 Vyacheslav Chelischev
