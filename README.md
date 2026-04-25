@@ -29,19 +29,6 @@
 * Высоконагруженная обработка данных (Excel, API, scraping)
 
 ---
-
-### ⚙️ Технологии
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,rust,vscode,selenium,docker,git,postgres,powershell" />
-</p>
-
-<p align="center">
-  Automation · Playwright · RPA · AI
-</p>
-
----
-
 ### 🚀 Проекты
 
 **🧩 [RPAForge](https://github.com/chelslava/rpaforge)**
