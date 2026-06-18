@@ -115,7 +115,6 @@ Advanced RPA framework with Dispatcher / Performer execution model.
 
 Telegram: https://t.me/ChelSlava
 Email: [chelslava@gmail.com](mailto:chelslava@gmail.com)
-
 ---
 
 ### ⚡
